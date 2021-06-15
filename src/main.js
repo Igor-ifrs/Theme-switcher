@@ -18,4 +18,4 @@ const IccTheme = function () {
   });
 };
 
-window.addEventListener("load", IccTheme);
+window.addEventListener("DOMContentLoaded", IccTheme);
